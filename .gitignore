@@ -1,0 +1,12 @@
+# PDF原文件（学员专属禁止外传）
+*.pdf
+
+# HTML网站文件
+*.html
+
+# 构建脚本
+build_site.py
+
+# ASCII副本
+ch1.md
+ch2.md
